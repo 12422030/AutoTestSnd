@@ -1,0 +1,2 @@
+14108001<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191016150024</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8001</TransactionId><ErrCode>PE3004</ErrCode><Message>该交易已记账</Message></ResponseHead><ResponseFields><SrlNmb>800248</SrlNmb></ResponseFields></ebank>

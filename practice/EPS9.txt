@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><transaction><header><msgCd>TEST</msgCd><seqNb>0</seqNb><sndTm>09:54:23</sndTm><sndDt>20180721</sndDt></header><body><request><Cardno>001301138622</Cardno></request></body></transaction>

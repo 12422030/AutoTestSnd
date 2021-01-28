@@ -1,0 +1,2 @@
+14108006<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191016090115</SendDateTime><Source>TP01</Source><Destination>IBPS</Destination><TransactionId>8006</TransactionId><ErrCode>PE0000</ErrCode><Message>交易成功</Message></ResponseHead><ResponseFields><SrlNmb>801008</SrlNmb></ResponseFields></ebank>

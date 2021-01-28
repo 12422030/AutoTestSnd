@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+    <RequestHead>
+        <Source>IBPS</Source>
+        <Destination>TP01</Destination>
+        <TransactionId>8008</TransactionId>
+        <SendDateTime>20191015153029</SendDateTime>
+        <MsgId>1051000000172019101503950773</MsgId>
+    </RequestHead>
+    <RequestFields>
+        <Phone></Phone>
+        <PhoneMsg></PhoneMsg>
+    </RequestFields>
+</ebank>

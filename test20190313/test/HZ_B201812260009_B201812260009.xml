@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Sec>
+    <payer>
+        <BegnBtchId>B201903050001</BegnBtchId>
+        <EndBtchId>01</EndBtchId>
+        <CntNb>C</CntNb>
+        <CntAmt>D</CntAmt>
+        <BsCntNb>E</BsCntNb>
+        <BsCntAmt>F</BsCntAmt>
+    </payer>
+    <payee>
+        <PayeeIssrid>G</PayeeIssrid>
+        <PayeeIssrid2>H</PayeeIssrid2>
+        <PayeeIssrid3>I</PayeeIssrid3>
+        <PayeeIssrid4>J</PayeeIssrid4>
+        <PayeeIssrid5>K</PayeeIssrid5>
+        <PayeeIssrid6>L</PayeeIssrid6>
+        <PayeeIssrid7>M</PayeeIssrid7>
+        <PayeeIssrid8>N</PayeeIssrid8>
+    </payee>
+    <Grp>
+        <Grp1>O</Grp1>
+        <Grp2>P</Grp2>
+        <Grp3>Q</Grp3>
+    </Grp>
+    <flag>1</flag>
+    <instgid>
+        <instgid1>2019030511020120121212121221</instgid1>
+        <instgid2>S</instgid2>
+        <instgid3>CNY10.00</instgid3>
+        <instgid4>U</instgid4>
+        <instgid5>V</instgid5>
+    </instgid>
+    <inst>
+        <a>201903051102012012</a>
+        <b>X</b>
+        <c>Y</c>
+        <d>Z</d>
+        <e>5</e>
+    </inst>
+    <li>1994</li>
+    <wei>1116</wei>
+</Sec>

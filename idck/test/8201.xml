@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>8201</TransactionId>
+		<SendDateTime>20100705163000</SendDateTime>
+		<MsgId>12345678901234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<TxId>3132270000122019092514426058</TxId>
+		<Ustrd>测试冲正</Ustrd>
+	</RequestFields>
+</ebank>

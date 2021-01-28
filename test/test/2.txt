@@ -1,0 +1,1 @@
+00000294<?xml version="1.0" encoding="UTF-8"?><transaction><header><msgCd>EPS8</msgCd><seqNb>1030144538004167</seqNb><sndTm>2018-10-30T14:45:38</sndTm><sndDt>20181030</sndDt></header><body><request><signNo>EPTE01HRDYIPBQCPAPEQJXC</signNo><instgId>Z2004944000010</instgId></request></body></transaction>

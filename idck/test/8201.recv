@@ -1,0 +1,2 @@
+14108201<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191016112623</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8201</TransactionId><ErrCode>PE3004</ErrCode><Message>冲账数据错误，无法定位原记录</Message></ResponseHead><ResponseFields><SrlNmb>800193</SrlNmb></ResponseFields></ebank>

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><ebank><RequestHead><Source>IBPS</Source><Destination>HOST</Destination><TransactionId>8008</TransactionId><SendDateTime>20100705155400</SendDateTime><MsgId>1234567890</MsgId></RequestHead><RequestFields><Phone>123</Phone><PhoneMsg>tututu</PhoneMsg></RequestFields></ebank>

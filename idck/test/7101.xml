@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+    <RequestHead>
+        <Source>IBPS</Source>
+        <Destination>QDEB</Destination>
+        <TransactionId>7101</TransactionId>
+        <SendDateTime>20191015153029</SendDateTime>
+        <MsgId>1051000000172019101503950773</MsgId>
+    </RequestHead>
+    <RequestFields>
+        <Acct>6227100000001187692</Acct>
+        <Acname>??虚^??</Acname>
+        <Amount>20000.00</Amount>
+    </RequestFields>
+</ebank>

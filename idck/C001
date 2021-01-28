@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Head>
+<ChnlType>ACM</ChnlType>
+<MsgCd>C001</MsgCd>
+<SndDate>20200612</SndDate>
+<SndTm>142259</SndTm>
+<SeqNb>60003620200612142259W01500202877</SeqNb>
+<BrNo>15001</BrNo>
+<TelNo>01100416</TelNo>
+</Head>
+<Body>
+    <Name>岳帅</Name>
+<IdNo>211381199512293018</IdNo>
+</Body>
+</Root>

@@ -1,0 +1,2 @@
+14108300<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8300</TransactionId><SendDateTime>20191016102847</SendDateTime><ErrCode>PE3004</ErrCode><Message>处理失败</Message></ResponseHead><ResponseFields><SrlNmb>7895</SrlNmb></ResponseFields></ebank>

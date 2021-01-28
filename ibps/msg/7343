@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ebank>
+<RequestHead>
+<Source>IBPS</Source>
+<Destination>JZEB</Destination>
+<TransactionId>7343</TransactionId>
+<SendDateTime>20191015132749</SendDateTime>
+<MsgId>3132270000122019101574645749</MsgId>
+</RequestHead>
+<RequestFields>
+<Acct>6235680000016217831</Acct>
+<CtznIDNb>210711195002054619</CtznIDNb>
+<Tel>AT01</Tel>
+<Acname>DE3</Acname>
+<AcctBk>02039</AcctBk>
+</RequestFields>
+</ebank>
+

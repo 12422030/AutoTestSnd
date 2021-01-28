@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><ebank><RequestHead><Source>IBPS</Source><Destination>QDEB</Destination><TransactionId>7100</TransactionId><SendDateTime>20200109151048</SendDateTime><MsgId>1021000999962020010946050695</MsgId></RequestHead><RequestFields><Acct>632621199402226761</Acct><Acname></Acname></RequestFields></ebank>

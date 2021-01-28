@@ -1,0 +1,2 @@
+14108005<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191016095201</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8005</TransactionId><ErrCode>PE3004</ErrCode><Message>卡号不存在</Message></ResponseHead><ResponseFields><SrlNmb>800153</SrlNmb></ResponseFields></ebank>

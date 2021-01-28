@@ -1,0 +1,3 @@
+TARGET=fycktest
+
+OBJ += 1.o

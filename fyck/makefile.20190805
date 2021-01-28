@@ -1,0 +1,27 @@
+#
+# NAME:       makefile
+# AUTHOR:     yangwanchun
+# VERSION:    1.0
+# DATE:       2007/08/25
+#
+
+include $(HOME)/etc/makefile.xip
+
+#KLIBS = -lkpublib -lkcfglib -lkinitlib -lkdblib -lktablib -lkdbuslib -lkflowlib -lktcplib -lkloglib   -lkfmtconv -lktaglib -lkfixedlib
+#KLIBS = -lkpublib -lkcfglib -lkinitlib -lkdblib -lktablib -lkdbuslib -lkflowlib2.1.2 -lktcplib1.1.1 -lkloglib2.1.1   -lkfmtconv -lktaglib -lkfixedlib -lkmaplib
+
+KLIBS = $(XIP_KLIBS2.2.0) -lkfmtconv -lktaglib -lkfixedlib2.2
+APLIBS = -ldb2
+
+include OBJS
+
+all :  $(TARGET) clean
+
+$(TARGET): $(OBJ)
+	    $(CC) $(EXEFLAGS) $@ $(OBJ) -I$(INCLPATH) -I$(DBINCLPATH) -L$(APLIBPATH) -L$(DBLIBPATH) $(KLIBS) $(APLIBS)
+	    $(MV) $@ $(BINPATH)/$@	  
+.c.o :
+	    $(CC) $(CCFLAGS) -I$(INCLPATH) $<
+
+clean:
+	    $(RM) -f *.o

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>8300</TransactionId>
+		<SendDateTime>20100705155400</SendDateTime>
+		<MsgId>1234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<TxId>201009251549000003</TxId>
+		<TxNetgRnd>1</TxNetgRnd>
+		<TxNetgDt>20100921</TxNetgDt>
+	</RequestFields>
+</ebank>

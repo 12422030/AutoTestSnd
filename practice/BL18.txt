@@ -1,0 +1,1 @@
+00000314<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><head><Trcd>BL18</Trcd><reqDt>20180908</reqDt><reqSeqno></reqSeqno><Teller>00000011</Teller><reqBrnid>02039</reqBrnid></head><body><accno>410224119095575</accno><protocalNo>201801590517</protocalNo><addTyp>0</addTyp><ratio>0.000000</ratio></body></root>

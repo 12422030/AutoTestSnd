@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Msg version="1.0">
+<Head>
+<Ver>1.0.0</Ver>
+<Src>00010000</Src>
+<App>iqr</App>
+<ServiceName>TransStInquiry</ServiceName>
+<MsgType>Q</MsgType>
+<CupsNo>0508000464291615</CupsNo>
+<SrcNo>20190508153317102121</SrcNo>
+<TransDt>20190508</TransDt>
+<TransTm>153317</TransTm>
+<SderIssrId>04399200</SderIssrId>
+<Acquirer>W0ACQ001</Acquirer>
+<SignMethod>01</SignMethod>
+</Head>
+<Body>
+<Pan>62299001301140826</Pan>
+<Purchase>
+<PurchAmt>000000010000</PurchAmt></Purchase><OrgTransTm>153314</OrgTransTm><OrgTransDt>20190503</OrgTransDt><OrgSrcNo>20181217130245775133</OrgSrcNo></Body></Msg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>8000</TransactionId>
+		<SendDateTime>20100705163000</SendDateTime>
+		<MsgId>12345678901234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<TradeTp>TP01</TradeTp>
+		<TxId>201009251549000003</TxId>
+		<PmtTp>C200</PmtTp>
+		<PmtKd>02001</PmtKd>
+		<DbtrAcct>402053692908019</DbtrAcct>
+		<DbtrNm>崔永彬错误</DbtrNm>
+		<DbtrAcctTp>AT00</DbtrAcctTp>
+		<DbtrIssr>锦州银行</DbtrIssr>
+		<DbtrMmbId>313134000011</DbtrMmbId>
+		<CdtrAcct>1234567890</CdtrAcct>
+		<CdtrNm>测试收款人</CdtrNm>
+		<CdtrMmbId>313134000011</CdtrMmbId>
+		<Currency>CNY</Currency>
+		<Amt>300.00</Amt>
+		<ThrdCharge>0.00</ThrdCharge>
+		<Charge>3.00</Charge>
+		<Ustrd>测试报文</Ustrd>
+		<AccptncDtTm>20100925154900</AccptncDtTm>
+	</RequestFields>
+</ebank>

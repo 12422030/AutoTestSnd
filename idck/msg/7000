@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ebank>
+<RequestHead>
+<Source>IBPS</Source>
+<Destination>HOST</Destination>
+<TransactionId>7000</TransactionId>
+<SendDateTime>20100705163000</SendDateTime>
+<MsgId>12345678901234567890</MsgId>
+</RequestHead>
+<RequestFields>
+<PtcId></PtcId>
+<RqlirAcct>110224115081396</RqlirAcct>
+<RqlirNm></RqlirNm>
+<RqlirAcctTp>AT00</RqlirAcctTp>
+<RqlirDpsNm></RqlirDpsNm>
+</RequestFields>
+</ebank>

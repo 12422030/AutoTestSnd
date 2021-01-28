@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GBK"?>
+<message>
+<head>
+    <field name="SendDate">20170309</field>
+    <field name="SendTime">105258</field>
+    <field name="SendSeqNo">21130201703098605959</field>
+    <field name="TxUnitNo">211300000000000</field>
+    <field name="SendNode">C21130</field>
+    <field name="TxCode">BDC209</field>
+    <field name="ReceiveNode">313053</field>
+    <field name="BDCDate">20170309</field>
+    <field name="BDCTime">105339</field>
+    <field name="BDCSeqNo">21130201703098605959</field>
+    <field name="CustNo">0</field>
+    <field name="OperNo">211300000000000000000</field>
+    <field name="BeginRec"/>
+    <field name="MaxRec"/>
+</head>
+<body>
+    <field name="CurrNo">156</field>
+    <field name="CurrIden">1</field>
+    <field name="AcctNo">024000120110100002702</field>
+    <field name="AcctType">1</field>
+    </body>
+</message>

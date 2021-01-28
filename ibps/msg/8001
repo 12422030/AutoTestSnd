@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>8001</TransactionId>
+		<SendDateTime>20100705163000</SendDateTime>
+		<MsgId>12945678901234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<TradeTp>TP01</TradeTp>
+		<TxId>3012900000072019100804607609</TxId>
+		<PmtTp>C200</PmtTp>
+		<PmtKd>02001</PmtKd>
+		<DbtrAcct>6222600450002353360</DbtrAcct>
+		<DbtrNm>测试付款人测试付款人测试付款人测试付款人测试付款人测试付款人测试付款人测试付款人测试付款人测试付款人</DbtrNm>
+		<DbtrAcctTp>AT02</DbtrAcctTp>
+		<DbtrIssr>测试付款行</DbtrIssr>
+		<DbtrMmbId>123456789012</DbtrMmbId>
+		<CdtrAcct>622710692908019</CdtrAcct>
+		<CdtrNm>崔永彬</CdtrNm>
+		<CdtrAcctTp>AT00</CdtrAcctTp>
+		<CdtrIssr>新宾支行</CdtrIssr>
+		<CdtrMmbId>123456789012</CdtrMmbId>
+		<Currency>CNY</Currency>
+		<Amt>550.00</Amt>
+		<Charge>0.00</Charge>
+		<TxNetgRnd>1</TxNetgRnd>
+		<TxNetgDt>20100921</TxNetgDt>
+		<Ustrd>测试报文</Ustrd>
+        <AccptncDtTm>20100925155500</AccptncDtTm>
+        <DigitalSign></DigitalSign>
+	</RequestFields>
+</ebank>

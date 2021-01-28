@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>9000</TransactionId>
+		<SendDateTime>20101112091020</SendDateTime>
+		<MsgId>1234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<ChckDt>20101201</ChckDt>
+		<DtlChckFileName>20101112_9000JY.txt</DtlChckFileName>
+		<DtlChckFileRCnt>17</DtlChckFileRCnt>
+	</RequestFields>
+</ebank>

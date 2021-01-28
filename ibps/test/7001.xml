@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+	<RequestHead>
+		<Source>IBPS</Source>
+		<Destination>HOST</Destination>
+		<TransactionId>7001</TransactionId>
+		<SendDateTime>20100705163000</SendDateTime>
+		<MsgId>12345678901234567890</MsgId>
+	</RequestHead>
+	<RequestFields>
+		<PtcId>23122211223092</PtcId>
+		<RqlirAcct>622710458608019</RqlirAcct>
+		<RqlirNm>门雪</RqlirNm>
+		<RqlirDpsNm>高新支行</RqlirDpsNm>
+		<RqlirAcctTp>AT00</RqlirAcctTp>
+		<StartDt>20100820</StartDt>
+		<DnldDt>20100828</DnldDt>
+	</RequestFields>
+</ebank>

@@ -1,0 +1,1 @@
+00000200<?xml version="1.0" encoding="UTF-8" standalone="no"?><transaction><header><msgCd>EPS2</msgCd><seqNb>0</seqNb><sndTm>09:54:23</sndTm><sndDt>20180721</sndDt></header><body><request><acNo>62299001301138622</acNo></request></body></transaction>

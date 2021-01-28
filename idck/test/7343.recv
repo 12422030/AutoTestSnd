@@ -1,0 +1,2 @@
+14107343<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191016130851</SendDateTime><Source></Source><Destination></Destination><TransactionId>7343</TransactionId><ErrCode>PE3004</ErrCode><Message>处理失败</Message></ResponseHead><ResponseFields><Acct></Acct><Nm></Nm><Issr></Issr><AcctTp></AcctTp><CtrySubDvsn></CtrySubDvsn><AcctSts></AcctSts><CtznIDNmVrfctnRslt></CtznIDNmVrfctnRslt><TelVrfctnRslt></TelVrfctnRslt><Status></Status><RejectCode></RejectCode><RejectInformation></RejectInformation></ResponseFields></ebank>

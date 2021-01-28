@@ -1,0 +1,5 @@
+
+ChangeLog:
+
+	1. bdc_rsa.c make for AIX64, add include for pem.h  2012/7/2 WK
+

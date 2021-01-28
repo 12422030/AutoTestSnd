@@ -1,0 +1,2 @@
+14107000<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191015150643</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>7000</TransactionId><ErrCode>PE3004</ErrCode><Message>IB31</Message></ResponseHead><ResponseFields><CdtAmt>0.</CdtAmt><AvlbAmt>0.</AvlbAmt><CshCdtAmt>0.</CshCdtAmt><CshAvlbAmt>0.</CshAvlbAmt><DedlnDt>0</DedlnDt><Entry><Currency></Currency><Amt>0.</Amt></Entry></ResponseFields></ebank>

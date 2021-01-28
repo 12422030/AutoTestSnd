@@ -1,0 +1,2 @@
+14108004<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191015192806</SendDateTime><Source>JZEB</Source><Destination>IBPS</Destination><TransactionId>8004</TransactionId><ErrCode>PE3004</ErrCode><Message>该凭证已关闭</Message></ResponseHead><ResponseFields><SrlNmb>7894</SrlNmb></ResponseFields></ebank>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <SummryHdr>
+        <BegnBtchId>B202005080001</BegnBtchId>
+        <EndBtchId>B202005080001</EndBtchId>
+        <CntNb>0</CntNb>
+        <CntAmt>CNY0.00</CntAmt>
+        <BsCntNb>0</BsCntNb>
+        <BsCntAmt>CNY0.00</BsCntAmt>
+        <CsPyCntNb>0</CsPyCntNb>
+        <CsPyCntAmt>CNY0.00</CsPyCntAmt>
+        <CsPyeeCntNb>0</CsPyeeCntNb>
+        <CsPyeeCntAmt>CNY0.00</CsPyeeCntAmt>
+        <FeeRcvbl>CNY0.0000</FeeRcvbl>
+        <FeePybl>CNY0.0000</FeePybl>
+    </SummryHdr>
+    <SummryBody/>
+    <FeeList/>
+    <DtlFileInf>
+        <FileInfNb>0</FileInfNb>
+        <FileInfList/>
+    </DtlFileInf>
+</root>

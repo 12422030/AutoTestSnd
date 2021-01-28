@@ -1,0 +1,10 @@
+LIBRARY     refbdc.DLL
+
+EXPORTS
+    des3dec @1
+	des3enc @2
+    decSessionKey @3
+    setLogFile  @4
+    bdc_zip @5
+    bdc_unzip @6
+    encSessionKey @100

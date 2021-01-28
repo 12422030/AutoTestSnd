@@ -1,0 +1,2 @@
+14109100<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>9100</TransactionId><SendDateTime>20191016092659</SendDateTime><ErrCode>PE0000</ErrCode><Message>无满足条件记录</Message></ResponseHead><ResponseFields><SrlNmb>800135</SrlNmb></ResponseFields></ebank>

@@ -1,0 +1,3 @@
+00000353<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<transaction><header><msgCd>EPS5</msgCd><seqNb>0</seqNb><sndTm>09:54:23</sndTm><sndDt>20180721</sndDt><chnlInfo>CTS</chnlInfo></header><body><request><acNo>62299001301138622</acNo><acType>107</acType><idType>01</idType><idNo>130924198905102112</idNo><intgid></intgid></request></body></transaction>
+

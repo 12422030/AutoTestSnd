@@ -1,0 +1,2 @@
+14108002<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191015185251</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8002</TransactionId><ErrCode>PE3004</ErrCode><Message>账号没找到</Message></ResponseHead><ResponseFields><SrlNmb>800043</SrlNmb></ResponseFields></ebank>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank>
+    <RequestHead>
+        <Source>IBPS</Source>
+        <Destination>JZEB</Destination>
+        <TransactionId>8004</TransactionId>
+        <SendDateTime>20191015192149</SendDateTime>
+        <MsgId>3132270000122019101674672917</MsgId>
+    </RequestHead>
+    <RequestFields>
+        <TxId>3132270000122019101674672917</TxId>
+        <DbtrAcct>6235680000014212081</DbtrAcct>
+        <DbtrNm>??髓^停?写</DbtrNm>
+        <DbtrAcctTp>AT01</DbtrAcctTp>
+        <DealPasswd>37299713DAB700E4</DealPasswd>
+    </RequestFields>
+</ebank>

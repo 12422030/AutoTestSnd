@@ -1,0 +1,2 @@
+14107101<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20191015164155</SendDateTime><Source>QDEB</Source><Destination>IBPS</Destination><TransactionId>7101</TransactionId><ErrCode>PE0000</ErrCode><Message>卡号非法</Message></ResponseHead><ResponseFields><Acct>6227100000001187692</Acct><Nm></Nm><Issr>锦州银行</Issr><AcctTp>AT02</AcctTp><CtrySubDvsn>210700</CtrySubDvsn><AcctSts>AS00</AcctSts><Bal>0.00</Bal><IdNo></IdNo><IdType></IdType></ResponseFields></ebank>

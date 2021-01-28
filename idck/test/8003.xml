@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GB18030"?>
+<ebank >
+	<RequestHead>	
+		<Source>IBPS</Source>		
+		<Destination>HOST</Destination>		
+		<TransactionId>8003</TransactionId>		
+		<SendDateTime>20101026163300</SendDateTime>		
+		<MsgId>20101026000000000002</MsgId>		
+	</RequestHead>	
+	<RequestFields>
+		<TxDate>20101026</TxDate>
+		<TxId>201010268003000001</TxId>
+		<DbtrAcct>402053692908019</DbtrAcct>	
+    	<DbtrAcctTp>AT00</DbtrAcctTp>		
+		<DbtrNm>崔永彬</DbtrNm>		
+    	<Currency>CNY</Currency>
+    	<Charge>5.00</Charge>
+    	<OptSymbl>0</OptSymbl>		
+  </RequestFields>
+</ebank>

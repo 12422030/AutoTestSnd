@@ -1,0 +1,2 @@
+14108000<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ebank><ResponseHead><SendDateTime>20200415165049</SendDateTime><Source>HOST</Source><Destination>IBPS</Destination><TransactionId>8000</TransactionId><ErrCode>PE3004</ErrCode><Message>账号没找到</Message></ResponseHead><ResponseFields><SrlNmb>801776</SrlNmb><Nm>崔永彬错误</Nm><Issr></Issr><AcctTp>AT00</AcctTp><CtrySubDvsn></CtrySubDvsn></ResponseFields></ebank>

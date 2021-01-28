@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+    <ClearCntNb>2</ClearCntNb>
+    <DebitCntAmt>CNY32847463.02</DebitCntAmt>
+    <CreditCntAmt>CNY0.00</CreditCntAmt>
+    <ClearList>
+        <ClearInf>
+            <ClearReptFlg>2019100902673560</ClearReptFlg>
+            <ClearDCFlg>1</ClearDCFlg>
+            <ClearAmt>CNY17086675.77</ClearAmt>
+            <BatchList>
+                <BatchInf>
+                    <BatchId>B201910080001</BatchId>
+                    <BatchDCFlg>1</BatchDCFlg>
+                    <BatchNetAmt>CNY2572302.82</BatchNetAmt>
+                    <test>
+                        <test1>wty</test1>
+                    </test>
+                 </BatchInf>
+            </BatchList>
+        </ClearInf>
+    </ClearList>
+</Root>
